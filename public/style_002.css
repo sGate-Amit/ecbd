@@ -8312,6 +8312,7 @@ a.btn-web {
 
 .banner-blog.banner-blog-details.has_banner {
     min-height: 830px;
+display:none;	
 }
 
 @media (max-width: 767px) {
